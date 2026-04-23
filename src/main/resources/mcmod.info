@@ -1,0 +1,16 @@
+[
+{
+  "modid": "realitycraft",
+  "name": "RealityCraft",
+  "description": "A Survival Mod.Overhaul survival and mak life 1000x harder",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sussyboi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
